@@ -13,6 +13,7 @@ Hi! I'm Ashish Nagmoti, a passionate backend and cloud developer and technology 
 - React, Next-js
 - Linux, Git, Docker
 - REST APIs, SQL, NoSQL
+- AWS, GCP
 
 ## 📈 GitHub Stats
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish-nagmoti&show_icons=true&theme=radical)
