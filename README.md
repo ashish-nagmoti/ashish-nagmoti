@@ -6,7 +6,7 @@ Hi! I'm Ashish Nagmoti, a passionate backend and cloud developer and technology 
 - 💻 Software Developer
 - 🌱 Always learning new technologies
 - 🤝 Open to collaboration and contributions
-- 📫 How to reach me: [ashish.nagmoti@email.com](mailto:ashish.nagmoti2310@email.com)
+- 📫 How to reach me: [ashish.nagmoti@email.com](mailto:ashishnagmoti2310@gmail.com)
 
 ## 🛠️ Skills
 - Python, Django, FastApi
