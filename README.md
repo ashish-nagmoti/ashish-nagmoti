@@ -1,9 +1,9 @@
 # Ashish Nagmoti
 
-Hi! I'm Ashish Nagmoti, a passionate backend and cloud developer and technology enthusiast. Welcome to my GitHub profile!
+Hi! I'm Ashish Nagmoti, a passionate AI engineer, backend and cloud developer and technology enthusiast. Welcome to my GitHub profile!
 
 ## 🚀 About Me
-- 💻 Software Developer
+- 💻 AI engineer
 - 🌱 Always learning new technologies
 - 🤝 Open to collaboration and contributions
 - 📫 How to reach me: [ashish.nagmoti@email.com](mailto:ashishnagmoti2310@gmail.com)
